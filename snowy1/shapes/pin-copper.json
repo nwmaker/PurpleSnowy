@@ -1,0 +1,38 @@
+{
+  "layout":
+  {
+    "conductor":
+    {
+      "shapes":
+      [
+        {
+          "layers": ["top"],
+          "location": [
+            0, 
+            0
+          ],
+          "meta": "pin-copper", 
+          "style": "fill",
+          "type": "circle",
+          "diameter": 5.1
+        }
+      ]
+    },
+    "soldermask": 
+    {
+      "shapes":
+      [
+        {
+          "layers": ["top"],
+          "location": [
+            0,
+            0
+          ],
+          "style": "fill",
+          "type": "circle",
+          "diameter": 5.1
+        }
+      ] 
+    }
+  }  
+}

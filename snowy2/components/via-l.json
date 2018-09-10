@@ -1,0 +1,55 @@
+{
+"pins":
+  {
+  "VIA":
+    {	
+      "layout": 
+      {
+        "pad": "via", 
+        "location": [0, 0]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+      ]
+    }
+  },
+  "pads":
+  {
+    "via":
+    {
+      "shapes":
+      [
+	{
+          "type": "circle",
+          "location": [0, 0],
+	  "layers": ["top", "internal", "bottom"],
+	  "style": "fill",
+          "diameter": 1.8,
+          "buffer-to-pour": 0.15,
+          "soldermask": {
+            "type": "circle",
+            "layers": ["top", "internal", "bottom"],
+            "style": "fill",
+            "diameter": 1.8,
+            "location": [0, 0]
+          }
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1.2
+        }
+      ]
+    }
+  }
+}

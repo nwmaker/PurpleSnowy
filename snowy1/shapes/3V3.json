@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "1.8mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "2.0mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "3V3"
+        }
+      ]
+    }
+  }  
+}

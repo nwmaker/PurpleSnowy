@@ -1,0 +1,642 @@
+{
+  "components": {
+    "B1": {
+      "footprint": "LINX-BAT-HLD-001", 
+      "layer": "bottom", 
+      "location": [
+        -0.549978, 
+        -11.07914
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }, 
+        "shapes": {
+          "show": true
+        }
+      }
+    }, 
+    "C0": {
+      "footprint": "0805-cap", 
+      "layer": "bottom", 
+      "location": [
+        -10.780878, 
+        1.603137
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "C1": {
+      "footprint": "0805-cap", 
+      "layer": "bottom", 
+      "location": [
+        -3.639494, 
+        11.167978
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "C2": {
+      "footprint": "0805-cap", 
+      "layer": "bottom", 
+      "location": [
+        -3.639494, 
+        4.917977
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.8, 
+            0.0
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "IC1": {
+      "footprint": "NL27WZ04-SOT363", 
+      "layer": "bottom", 
+      "location": [
+        -3.612843, 
+        7.938198
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            2.5, 
+            0.0
+          ], 
+          "rotate": 90, 
+          "show": true
+        }
+      }
+    }, 
+    "LED01": {
+      "footprint": "led-1206-l", 
+      "layer": "bottom", 
+      "location": [
+        -35.222482, 
+        5.87701
+      ], 
+      "rotate": 0, 
+      "show": false, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.264299, 
+            -0.019539
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "LED02": {
+      "footprint": "led-1206-l", 
+      "layer": "bottom", 
+      "location": [
+        -35.222482, 
+        15.87701
+      ], 
+      "rotate": 0, 
+      "show": false, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.264299, 
+            -0.019539
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "LED1": {
+      "footprint": "led-5mm", 
+      "layer": "bottom", 
+      "location": [
+        5.222482, 
+        5.87701
+      ], 
+      "rotate": 180, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.264299, 
+            -0.019539
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "LED2": {
+      "footprint": "led-5mm", 
+      "layer": "bottom", 
+      "location": [
+        -12.859905, 
+        6.63165
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5.264299, 
+            -0.019539
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "R1": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        0.478279, 
+        11.167978
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        1.113328, 
+        1.921669
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -18.009362, 
+        6.63165
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        6.509964, 
+        10.332516
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -5.236674, 
+        1.921669
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "R6": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -2.061672, 
+        1.921669
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        0.478279, 
+        9.167978
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            -1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "R8": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        6.509964, 
+        1.921669
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            1.6
+          ], 
+          "show": true
+        }
+      }
+    }, 
+    "SLOW/FAST": {
+      "footprint": "switch6-smd", 
+      "layer": "bottom", 
+      "location": [
+        15.711014, 
+        3.310986
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            5.0
+          ], 
+          "rotate": 0, 
+          "show": true
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "snowy2", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "first", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.3, 
+      "drills": 0.3, 
+      "outline": 0.4, 
+      "pad": 0.3, 
+      "route": 0.25
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.05, 
+      "path-scale": 1.05, 
+      "rect-buffer": 0.05
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        49.502221, 
+        16.028166
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: snowy2\nRevision: first\nDescription: snowy2\nLicense: CC-BY-NC v4 \nDesign: mj@nwmaker.com, NW Maker"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        53.759679, 
+        2.9558075
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top, bottom, green\nSurface finish: ENIG lead free"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        50.028721, 
+        -8.7215182
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      24.03975, 
+      -17.067361
+    ]
+  }, 
+  "drills": {}, 
+  "files": {
+    "routing-data": "snowy2_routing.json", 
+    "routing-svg": "snowy2.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": false
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": false
+    }
+  }, 
+  "outline": {
+    "shape": {
+      "height": 45.0, 
+      "scale": 1.0, 
+      "style": "stroke", 
+      "type": "path", 
+      "value": "m -37.771994,-19.984607 c 0.04322,-0.512431 0.129627,-1.537008 0.362105,-2.567629 0.232477,-1.030621 0.611141,-2.06783 0.987592,-3.038776 0.376452,-0.970946 0.751011,-1.876473 1.138693,-2.643164 0.387682,-0.766692 0.78509,-1.389434 1.140768,-1.855903 0.355678,-0.46647 0.66814,-0.774314 1.104069,-1.19379 0.435928,-0.419477 0.996427,-0.95165 1.584915,-1.410779 0.588488,-0.459128 1.206001,-0.846103 1.811385,-1.146625 0.605384,-0.300522 1.196893,-0.514123 1.94348,-0.760925 0.746587,-0.246803 1.648205,-0.526757 2.611011,-0.70365 0.962806,-0.176894 1.987446,-0.250964 2.935775,-0.304446 0.948329,-0.05348 1.820899,-0.08641 2.666349,-0.100804 0.845449,-0.0144 1.664546,-0.01028 2.491475,0.0041 0.82693,0.0144 1.662496,0.0391 2.637655,0.08848 0.975158,0.04938 2.090329,0.123451 3.018241,0.227651 0.927912,0.1042 1.6849296,0.241462 2.6126503,0.420424 0.9277208,0.178963 2.0349019,0.401222 3.0514032,0.692649 1.0165012,0.291426 1.9501799,0.654983 2.9767098,1.124021 1.0265299,0.469038 2.15003246,1.045193 3.08914083,1.75583 0.93910837,0.710636 1.69833877,1.560644 2.33200077,2.412377 0.6336619,0.851732 1.143883,1.707588 1.6730658,2.681591 0.5291829,0.974003 1.0755688,2.062668 1.4706171,4.795011 0.3950483,2.732342 0.6377959,7.105914 0.7674165,9.762015 0.1296205,2.6561006 0.1460796,3.5942156 0.1625429,5.1251675 0.016463,1.5309518 0.032919,3.6536455 0.020579,5.229658 C 6.8053055,0.18390589 6.7641626,1.2124708 6.6490265,1.858512 6.5338904,2.5045531 6.3446593,2.7678293 6.0031429,2.8831996 5.6616266,2.9985699 5.1678676,2.9656541 4.1690914,2.6082221 3.1703152,2.2507901 1.6619629,1.5666736 0.68264488,1.1428465 -0.29667315,0.71901936 -0.74926035,0.55444366 -1.4653235,0.5091561 -2.1813867,0.46386855 -3.16038,0.53790999 -4.2139227,0.62021708 -5.2674655,0.70252417 -6.3945823,0.7930214 -7.0612873,1.1303588 -7.7279924,1.4676962 -7.9336784,2.0518445 -8.1599862,2.4757603 -8.386294,2.8996761 -8.6330421,3.1628748 -9.020088,3.3152686 c -0.3870459,0.1523937 -0.9131934,0.1934993 -2.489864,0.2099676 -1.57667,0.016468 -4.200476,0.00824 -6.266186,1.24e-5 -2.06571,-0.00823 -3.571518,-0.016459 -4.581499,-0.1614254 -1.009981,-0.1449663 -1.516654,-0.4228172 -1.957039,-0.9043775 -0.440385,-0.4815604 -0.810646,-1.1644867 -1.153647,-1.62069355 -0.343001,-0.45620685 -0.658862,-0.68576262 -1.215654,-0.94134462 -0.556793,-0.255582 -1.349262,-0.53533343 -2.399881,-0.91800523 -1.050619,-0.3826718 -2.361547,-0.8691168 -3.501488,-1.8609238 -1.13994,-0.9918069 -2.110914,-2.4894161 -2.736356,-3.5098837 -0.625442,-1.0204677 -0.905259,-1.5636411 -1.193265,-2.3042467 -0.288007,-0.7406055 -0.584324,-1.6789471 -0.79415,-2.8351121 -0.209827,-1.156166 -0.333291,-2.530738 -0.403233,-3.723943 -0.06994,-1.193205 -0.0864,-2.205613 -0.09463,-2.878336 -0.0082,-0.672723 -0.0082,-1.006104 -0.0082,-1.17262 0,-0.166516 -10e-7,-0.166514 0.04322,-0.678944 z", 
+      "width": 45.0
+    }
+  }, 
+  "shapes": {
+    "INFO": {
+      "footprint": "info", 
+      "layer": "bottom", 
+      "location": [
+        15.961384, 
+        -7.9375
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "sikscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "NW": {
+      "footprint": "nwlogo", 
+      "layer": "top", 
+      "location": [
+        15.241101, 
+        -5.896938
+      ], 
+      "rotate": -30, 
+      "scale": 1.0, 
+      "show": true, 
+      "sikscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "NWB": {
+      "footprint": "nwlogo", 
+      "layer": "bottom", 
+      "location": [
+        18.768123, 
+        -7.9375
+      ], 
+      "rotate": 90, 
+      "scale": 1.0, 
+      "show": true, 
+      "sikscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "PIN": {
+      "footprint": "pin-copper", 
+      "layer": "bottom", 
+      "location": [
+        -0.540505, 
+        16.222536
+      ], 
+      "show": true, 
+      "sikscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "POURS": {
+      "footprint": "pours", 
+      "layer": "top", 
+      "location": [
+        0.0, 
+        0.0
+      ], 
+      "scale": 1.0, 
+      "show": true, 
+      "sikscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "SM-ALL": {
+      "footprint": "sm-owl2", 
+      "layer": "top", 
+      "location": [
+        1.061, 
+        -2.063
+      ], 
+      "scale": 1.0, 
+      "show": true, 
+      "sikscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "SS-OWL": {
+      "footprint": "ss-owl2", 
+      "layer": "top", 
+      "location": [
+        0.0, 
+        0.0
+      ], 
+      "scale": 1.0, 
+      "show": true, 
+      "sikscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }, 
+  "soldermask": {
+    "circle-buffer": 0.05, 
+    "path-scale": 1.05, 
+    "rect-buffer": 0.05
+  }, 
+  "solderpaste": {
+    "circle-buffer": -0.1, 
+    "path-scale": 0.9, 
+    "rect-buffer": -0.1
+  }, 
+  "vias": {
+    "default-via": "VIA"
+  }
+}
