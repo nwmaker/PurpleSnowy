@@ -4,7 +4,7 @@ PurpleSnowy is a wearable of snowy owl.
 
 ## Snowy1 
 
-This is the little version with 1 square inch.
+This is the little version within 1 square inch.
 It is available at [Tindie snowytwin](http://www.tindie.com/products/nwmaker/snowytwin/)
 
 ![Snowy1](https://github.com/nwmaker/PurpleSnowy/blob/master/media/snowy1front.png)
@@ -20,6 +20,3 @@ It is available at [Tindie snowyowl2](http://www.tindie.com/products/nwmaker/sno
 
 Its gerber files are under [gerber2](https://github.com/nwmaker/PurpleSnowy/tree/master/gerber2)
 
-## Notes
-
-Both are designed with [PCBmodE](https://github.com/boldport/pcbmode).
