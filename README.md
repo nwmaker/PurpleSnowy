@@ -13,7 +13,7 @@ Its gerber files are under [gerber1](https://github.com/nwmaker/PurpleSnowy/tree
 
 ## Snowy2
 
-This is the bigger version.
+This is the bigger version 2.
 It is available at [Tindie snowyowl2](http://www.tindie.com/products/nwmaker/snowyowl2/)
 
 ![Snowy2](https://github.com/nwmaker/PurpleSnowy/blob/master/media/snowy2front.png)
